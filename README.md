@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Grzegorz
+- 👀 I’m interested in coding, and network administration
+- 🌱 I’m currently learning at Wroclaw University of Technology
+- :guitar: my hobbies include sailing, playing the guitar and scuba diving 
